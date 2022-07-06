@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 /**
- * main - prints the first 50 Fibonacci numbers, starting with 1 and 2
- * followed by a new line
- * Return: Always 0 (Success)
- */
+* main - prints the first 50 Fibonacci numbers, starting with 1 and 2
+* followed by a new line
+* Return: Always 0 (Success)
+*/
 int main(void)
 {
 	long int i, j, k, next;
@@ -29,17 +29,4 @@ int main(void)
 
 	return (0);
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
