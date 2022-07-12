@@ -1,1 +1,1 @@
-The C file name will be saved in the variable $CFILE
+readme for pointers,arrays and strings
